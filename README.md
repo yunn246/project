@@ -1,5 +1,4 @@
-# project
-Visually Grounded Reference Resolution with Second Language Acquisition
+# Visually Grounded Reference Resolution with Second Language Acquisition
 
 > Part of the code we build our experiment on is from Schlangen et al. (2016). We thank them for giving us access to their research supplement materials.
 
